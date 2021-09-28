@@ -3,7 +3,7 @@
 * [Relative file link](../../examples/for-production/infrastructure-live/second.md)
 * [Relative path link](/examples/for-production/infrastructure-live/)
 
-![](../images/grunty.png)
+![](images/grunty.png)
 
 Here is an included `main.tf`:
 
